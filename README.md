@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/OIP.bm3rwDGQoYpzHIwn017YrgHaCz?w=740&h=280&rs=1&pid=ImgDetMain)]
+[![MasterHead](https://th.bing.com/th/id/OIP.0DFTBNX1RewIkORgKREZZgHaCs?w=3300&h=1200&rs=1&pid=ImgDetMain)]
 <h1 align="center">Hi 👋, I'm Biniyam Agegnehu</h1>
 <h3 align="center">A passionate software engineering student.</h3>
 <img align="right" src="https://th.bing.com/th/id/R.7a78fd83c5626dc885713c3b5a043d14?rik=dFqjP4CkL0c%2bIw&pid=ImgRaw&r=0" alt="I am a good programmer" width="450">
